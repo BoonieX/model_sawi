@@ -1,0 +1,5 @@
+path: D:/cv_sawi/yolo/datasets/plants
+train: images/train
+val: images/val
+names:
+  0: sawi
